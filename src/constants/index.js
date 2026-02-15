@@ -69,6 +69,24 @@ export const myProjects = [
   },
 ];
 
+export const mySocials = [
+  {
+    name: "WhatsApp",
+    href: "/",
+    icon: "/assets/socials/whatsApp.svg",
+  },
+  {
+    name: "Linkedin",
+    href: "/",
+    icon: "/assets/socials/linkedIn.svg",
+  },
+  {
+    name: "Instagram",
+    href: "/",
+    icon: "/assets/socials/instagram.svg",
+  },
+];
+
 export const experiences = [
   {
     title: "Software Developer",
