@@ -67,6 +67,40 @@ export const myProjects = [
       },
     ],
   },
+  {
+    id: 2,  
+    title: "AI Event Organizer",
+    description:
+      "Spott AI Event Organizer is a full-stack SaaS platform built with Next.js 16, React 19, Tailwind CSS, and Shadcn UI. It features a responsive UI with personalized onboarding for interests/location, event discovery via explore page carousels, category browsing, search, and global switching, plus AI-generated event details (title, description, category, Unsplash photos) from one prompt.",
+    subDescription: [
+      "Seamless registration provides QR-coded tickets in a My Tickets dashboard, while organizers access real-time analytics on registrations/attendance/earnings, QR check-ins, secure Clerk authentication, Convex real-time database, and freemium plans (1 free event or unlimited Pro with custom themes).",
+    ],
+    href: "",
+    logo: "",
+    image: "/assets/projects/ai-event-organizer.png",
+    tags: [
+      {
+        id: 1,
+        name: "Next.js",
+        path: "/assets/logos/nextjs.png",
+      },
+      {
+        id: 2,
+        name: "React.js",
+        path: "/assets/logos/reactjs.png",
+      },
+      {
+        id: 3,
+        name: "Shadcn UI",
+        path: "/assets/logos/shadcn.png",
+      },
+      {
+        id: 4,
+        name: "Tailwind CSS",
+        path: "/assets/logos/tailwindcss.svg",
+      },
+    ],
+  },
   
 ];
 
